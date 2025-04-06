@@ -9,7 +9,7 @@
 ```
 git init
 ```
-## Referencia del repositorio local al repositorio remoto de (GITHYB)
+## Referencia del repositorio local al repositorio remoto de (GITHUB)
 
 ```
 git remote add origin https://github.com/MarvinP1001/m1GitHubTema1.git
@@ -24,4 +24,6 @@ git remote -v
 git add .
 git commit -m "Configuracion inicial de git"
 git push origin master
+Hola a todos nnnnn
+jjjjjjjjjjj
 ```
